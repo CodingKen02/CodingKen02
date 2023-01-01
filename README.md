@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @CodingKen02
 
-MSU Junior Software Engineering Major
-Research in Virtual Reality, Advanced Vehicular Systems, & 3D Simulations
-Interest in Varieties of Art, Gaming, Human Computer Interactions & Weird Things
+-> MSU Junior Software Engineering Major
+
+-> Research in Virtual Reality, Advanced Vehicular Systems, & 3D Simulations
+
+-> Interest in Varieties of Art, Gaming, Human Computer Interactions & Weird Things
 
 10 Things I Like:
 1) Self Love, of course (my beliefs, loved ones, & myself)
