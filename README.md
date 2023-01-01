@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodingKen02
+👋 Hi, I’m @CodingKen02
 
 -> MSU Junior Software Engineering Major
 
