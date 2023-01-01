@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @CodingKen02
+# 👋 Hi, I’m @CodingKen02 but you can call me Kennedy!
 
 -> MSU Junior Software Engineering Major
 
