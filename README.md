@@ -8,7 +8,7 @@
 
 
 ## 10 Things I Like:
-1) Self Love, of course (my beliefs, loved ones, & myself)
+1) Self Love, of course (my beliefs, loved ones, & different aspects of myself)
 2) Dinosaurs & Mythical Beasts
 3) Games/Toys (legos, kirby, sonic, pokemon, angry birds, rc cars, y2k)
 4) Four S's -> Sensory, Sushi, and Soothing Songs (like adventure time, nintendo, old ones, vocaloid, carti inspired, etc.)
