@@ -19,7 +19,7 @@
 9) DC & certain others
 10) Coding Stuff (VR/AR, Front Dev, UI/UX, game/app/web dev, unity, unreal, 3D simulations, etc.)
 
-### Glad you get to know a little bit about me! And I hope you enjoy my projects or create one with me soon! ;) Have a good one, my friend.
+### Glad you get to know a little bit about me! And I hope you enjoy my projects or create one with me soon! Have a good one, my friend :)
 <!---
 CodingKen02/CodingKen02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
