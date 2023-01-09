@@ -2,7 +2,7 @@
 
 -> MSU Junior Software Engineering Major
 
--> Research in Virtual Reality, Advanced Vehicular Systems, & 3D Simulations
+-> Research in Virtual Reality, Advanced Vehicular Systems & 3D Simulations
 
 -> Interest in Varieties of Art, Gaming, Human Computer Interactions & Weird Things
 
