@@ -2,7 +2,9 @@
 
 -> MSU Junior Software Engineering Major
 
--> Research in Virtual Reality, Advanced Vehicular Systems & 3D Simulations
+-> Research in Virtual Reality, Advanced Vehicular Systems & 3D Simulations at CAVS
+
+-> Working in Housing & Bagley College of Engineering as a Diversity Delegate/Staff
 
 -> Interest in Varieties of Art, Gaming, Human Computer Interactions & Weird Things
 
