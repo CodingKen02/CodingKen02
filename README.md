@@ -8,14 +8,14 @@
 
 
 ## 10 Things I Like:
-1) Self Love, of course (my beliefs, loved ones, & different aspects of myself)
-2) Dinosaurs & Mythical Beasts
-3) Games/Toys (legos, kirby, sonic, pokemon, angry birds, rc cars, y2k)
-4) Four S's -> Sensory, Sushi, and Soothing Songs (like adventure time, nintendo, old ones, vocaloid, carti inspired, etc.)
-5) Japanese Aesthetic & Culture (don't laugh, it's cute and interesting, plus an engineer's dream)
+1) Self Journe
+2) Dinosaurs & Mythology
+3) OG Games
+4) Four S's -> Sensory, Sushi, and Songs 
+5) Japan's Culture and Civilization (the city is kind of an engineer's dream)
 6) Machinery (consoles, computers, powered tools, robots, transformers, parts, etc.)
 7) Animations (like junji ito, demon slayer, chainsaw man, owl house, amphibia, ghibli, adventure time, nostalgic ones, etc.)
-8) Art/Cute/Therapy Comics
+8) Art/Therapy Comics
 9) DC & certain others
 10) Coding Stuff (VR/AR, Front Dev, UI/UX, game/app/web dev, unity, unreal, 3D simulations, etc.)
 
