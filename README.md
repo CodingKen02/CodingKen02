@@ -10,7 +10,7 @@
 ## 10 Things I Like:
 1) Self Discovery
 2) Dinosaurs & Mythology
-3) OG Games
+3) OG Games & Products
 4) Three S's -> Sensory, Sushi, and Songs
 5) Japan's Culture and Civilization (the city is kind of an engineer's dream)
 6) Machinery (consoles, computers, powered tools, robots, transformers, parts, etc.)
