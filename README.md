@@ -8,10 +8,10 @@
 
 
 ## 10 Things I Like:
-1) Self Journe
+1) Self Discovery
 2) Dinosaurs & Mythology
 3) OG Games
-4) Four S's -> Sensory, Sushi, and Songs 
+4) Three S's -> Sensory, Sushi, and Songs
 5) Japan's Culture and Civilization (the city is kind of an engineer's dream)
 6) Machinery (consoles, computers, powered tools, robots, transformers, parts, etc.)
 7) Animations (like junji ito, demon slayer, chainsaw man, owl house, amphibia, ghibli, adventure time, nostalgic ones, etc.)
