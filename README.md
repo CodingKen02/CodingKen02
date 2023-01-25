@@ -16,7 +16,7 @@
 6) Machinery (consoles, computers, powered tools, robots, transformers, parts, etc.)
 7) Animations (like junji ito, demon slayer, chainsaw man, owl house, amphibia, ghibli, adventure time, nostalgic ones, etc.)
 8) Art/Therapy Comics
-9) DC & certain others
+9) DC (...& certain others)
 10) Coding Stuff (VR/AR, Front Dev, UI/UX, game/app/web dev, unity, unreal, 3D simulations, etc.)
 
 ### Glad you get to know a little bit about me! And I hope you enjoy my projects or create one with me soon! Have a good one, my friend :)
