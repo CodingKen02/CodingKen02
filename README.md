@@ -15,8 +15,8 @@
 3) OG Games & Products
 4) Three S's -> Sensory, Sushi, and Songs
 5) Japan's Culture and Civilization (the city is kind of an engineer's dream)
-6) Machinery (consoles, computers, powered tools, robots, transformers, parts, etc.)
-7) Animations (like junji ito, demon slayer, chainsaw man, owl house, amphibia, ghibli, adventure time, nostalgic ones, etc.)
+6) Machinery
+7) Animations
 8) Art/Therapy Comics
 9) DC (...& certain others)
 10) Coding Stuff (VR/AR, Front Dev, UI/UX, game/app/web dev, unity, unreal, 3D simulations, etc.)
