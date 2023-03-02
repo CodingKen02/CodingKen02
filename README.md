@@ -2,9 +2,9 @@
 
 -> MSU Junior Software Engineering Major
 
--> Research in Virtual Reality, Advanced Vehicular Systems & 3D Simulations at CAVS
+-> Research in Enhancing Accessibility in Virtual Reality at CAVS
 
--> Working in Housing Staff & Bagley College of Engineering as a Diversity Delegate
+-> Working in Housing Staff & Bagley College of Engineering as an Information Assistant & Diversity Delegate
 
 -> Interest in Varieties of Art, Gaming, Human Computer Interactions & Weird Things
 
@@ -18,7 +18,7 @@
 6) Machinery
 7) Animations
 8) Art/Therapy Comics
-9) DC (...& certain others)
+9) DC (...& some other exceptions)
 10) Coding Stuff (VR/AR, Front Dev, UI/UX, game/app/web dev, unity, unreal, 3D simulations, etc.)
 
 ### Glad you get to know a little bit about me! And I hope you enjoy my projects or create one with me soon! Have a good one, my friend :)
