@@ -2,7 +2,9 @@
 
 -> MSU Junior Software Engineering Major
 
--> Research in Enhancing Accessibility in Virtual Reality at CAVS
+-> INCOMING Online Editor for The Reflector (http://www.reflector-online.com/)
+
+-> Research in Enhancing Accessibility in Virtual Reality at CAVS (Center for Advanced Vehicular Systems)
 
 -> Working in Housing Staff & Bagley College of Engineering as an Information Assistant & Diversity Delegate
 
