@@ -1,10 +1,12 @@
 # 👋 Hi, I’m @CodingKen02. Call me Kennedy!
 
--> MSU Junior Software Engineering Major
+-> MSSTATE Senior Software Engineering Major
 
--> INCOMING Online Editor for The Reflector (http://www.reflector-online.com/)
+-> Online Editor for The Reflector (http://www.reflector-online.com/)
 
--> Research in Enhancing Accessibility in Virtual Reality at CAVS (Center for Advanced Vehicular Systems)
+-> Research in Enhancing Accessibility in Virtual Reality at MSSTATE CAVS (Center for Advanced Vehicular Systems)
+
+-> Research in Exploring Virtual Reality Nature Immersion for Well-Being at UMN (University of Minnesota, Twin Cities)
 
 -> Working in Housing Staff & Bagley College of Engineering as an Information Assistant & Diversity Delegate
 
