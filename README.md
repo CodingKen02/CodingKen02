@@ -6,7 +6,7 @@
 
 -> Research in Enhancing Accessibility in Virtual Reality at MSSTATE CAVS (Center for Advanced Vehicular Systems)
 
--> Research in Exploring Virtual Reality Nature Immersion for Well-Being at UMN (University of Minnesota) with MindVue
+-> Research in Big Data, Artificial Intelligence & Machine Learning at UCLA with Amazon's collaboration
 
 -> Working in Housing Staff & Bagley College of Engineering as an Information Assistant & Diversity Delegate
 
