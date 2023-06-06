@@ -23,7 +23,7 @@
 7) Animations
 8) Art/Therapy Comics
 9) DC (...& some other exceptions)
-10) Coding Stuff (VR/AR, Front Dev, UI/UX, game/app/web dev, unity, unreal, 3D simulations, etc.)
+10) Coding Stuff (VR/AR, Front Dev, UI/UX, AI, game/app/web dev, unity, unreal, 3D simulations, etc.)
 
 ### Glad you get to know a little bit about me! And I hope you enjoy my projects or create one with me soon! Have a good one, my friend :)
 <!---
