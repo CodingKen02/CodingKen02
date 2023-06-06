@@ -6,7 +6,7 @@
 
 -> Research in Enhancing Accessibility in Virtual Reality at MSSTATE CAVS (Center for Advanced Vehicular Systems)
 
--> Research in Big Data, Artificial Intelligence & Machine Learning at UCLA with Amazon's collaboration
+-> Research in Big Data, Artificial Intelligence & Machine Learning at UCLA and Amazon
 
 -> Working in Housing Staff & Bagley College of Engineering as an Information Assistant & Diversity Delegate
 
