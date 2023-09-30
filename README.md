@@ -6,7 +6,7 @@
 
 -> Research in Enhancing Accessibility in Virtual Reality & Computing Autonomous Vehicle Snow Simulations at MSSTATE CAVS
 
--> Research in Motor Movement with Big Data & Machine Learning for Bioelectronics & Biosensors at UCLA & Amazon
+-> Research in Motor Movement & Personalized Medicine with Big Data & Machine Learning for Bioelectronics & Biosensors at UCLA & Amazon
 
 -> Working in Housing Staff & Bagley College of Engineering as an Information Assistant & Diversity Delegate
 
