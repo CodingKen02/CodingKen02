@@ -4,7 +4,7 @@
 
 -> Online Editor for The Reflector (http://www.reflector-online.com/)
 
--> Research in Enhancing Accessibility in Virtual Reality at MSSTATE CAVS (Center for Advanced Vehicular Systems)
+-> Research in Enhancing Accessibility in Virtual Reality & Computing Autonomous Vehicle Snow Simulations at MSSTATE CAVS (Center for Advanced Vehicular Systems)
 
 -> Research in Motor Movement with Big Data & Machine Learning for Bioelectronics & Biosensors at UCLA & Amazon
 
