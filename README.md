@@ -2,13 +2,15 @@
 
 -> MSSTATE Senior Software Engineering Major
 
+-> Parchment Software Engineer Intern for Captured Sun (https://www.parchment.page/)
+
 -> Online Editor for The Reflector (http://www.reflector-online.com/)
+
+-> Information Assistant for MSSTATE Housing & Residence Life
 
 -> Research in Enhancing Accessibility in Virtual Reality & Computing Autonomous Vehicle Snow Simulations at MSSTATE CAVS
 
 -> Research in Motor Skills & Personalized Medicine with Big Data & Machine Learning for Bioelectronics & Biosensors at UCLA-Amazon
-
--> Working in Housing Staff & Bagley College of Engineering as an Information Assistant & Diversity Delegate
 
 -> Interest in Varieties of Art, Gaming, Human Computer Interactions & Weird Things
 
