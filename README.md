@@ -1,10 +1,8 @@
 # 👋 Hi, I’m @CodingKen02. Call me Kennedy!
 
--> MSSTATE Senior Software Engineering Major
+-> MSSTATE Senior Software Engineering & Georgetown University DSAN Grad Student
 
--> Parchment Software Engineer Intern for Captured Sun (https://www.parchment.page/)
-
--> Online Editor for The Reflector (http://www.reflector-online.com/)
+-> Parchment Software Engineer Intern & Team Project Manager for Captured Sun (https://www.parchment.page/)
 
 -> Information Assistant for MSSTATE Housing & Residence Life
 
