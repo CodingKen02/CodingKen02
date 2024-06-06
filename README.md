@@ -1,18 +1,5 @@
 # 👋 Hi, I’m @CodingKen02. Call me Kennedy!
 
--> MSSTATE Senior Software Engineering & Georgetown University DSAN Grad Student
-
--> Parchment Software Engineer Intern & Team Project Manager for Captured Sun (https://www.parchment.page/)
-
--> Information Assistant for MSSTATE Housing & Residence Life
-
--> Research in Enhancing Accessibility in Virtual Reality & Computing Autonomous Vehicle Snow Simulations at MSSTATE CAVS
-
--> Research in Motor Skills & Personalized Medicine with Big Data & Machine Learning for Bioelectronics & Biosensors at UCLA-Amazon
-
--> Interest in Varieties of Art, Gaming, Human Computer Interactions & Weird Things
-
-
 ## 10 Things I Like:
 1) Self Discovery
 2) Dinosaurs & Mythology
